@@ -1,4 +1,4 @@
-# Project Name
+# ShinoMart
 
 Simple Prject based on Next js to fetch product, search, filter
 
